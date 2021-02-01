@@ -1,0 +1,7 @@
+# Rider
+
+/.idea/
+*.sln
+/Battleship/bin/
+/Battleship/obj/
+*.pfx
